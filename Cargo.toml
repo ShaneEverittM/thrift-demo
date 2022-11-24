@@ -1,0 +1,7 @@
+[workspace]
+members = [
+	"rpc",
+	"thrift-vendor",
+	"thrift-build",
+	"thrift-import"
+]
